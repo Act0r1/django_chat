@@ -1,0 +1,4 @@
+/lib
+/bin
+.git
+pyvenv.cfg
