@@ -1,2 +1,2 @@
-# django_chat
+# Simple chat in Django
 
